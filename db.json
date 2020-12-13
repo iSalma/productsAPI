@@ -1,31 +1,67 @@
+
+
 {
-  "products": [
-    { "category": 1,
-      "code": 1,
-      "name": "Post 1",
-      "price": 22
-    },
-    {
-      "category": 2,
-      "code": 2,
-      "name": "Post 52",
-      "price": 26
-    },
-    {
-      "category": 3,
-      "code": 3,
-      "name": "Post 51",
-      "price": 52
-    }
-  ],
-  "categories": [
-    {
-      "id": 1,
-      "categoryName": "some comment"
-    },
-    {
-      "id": 2,
-      "categoryName": "some commdddent"
-    }
-  ]
-}
+    "products": [
+      {
+        "index":1,
+        "id": 1,
+        "code": 1,
+        "name": "Post 1",
+        "price": 22
+      },
+      {
+        "index":2,
+        "id": 2,
+        "code": 2,
+        "name": "Post 52",
+        "price": 26
+      },
+      {
+        "index":3,
+        "id": 3,
+        "code": 3,
+        "name": "Post 51",
+        "price": 52
+      },
+      {
+        "index":4,
+        "id": 1,
+        "code": 1,
+        "name": "Post 1",
+        "price": 22
+      },
+      {
+        "index":5,
+        "id": 2,
+        "code": 2,
+        "name": "Post 52",
+        "price": 26
+      },
+      {
+        "index":6,
+        "id": 4,
+        "code": 3,
+        "name": "Post 51",
+        "price": 52
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "categoryName": "prod 1"
+      },
+      {
+        "id": 2,
+        "categoryName": "prod 2"
+      },
+      {
+        "id": 3,
+        "categoryName": "prod 11"
+      },
+      {
+        "id": 4,
+        "categoryName": "prod 22"
+      }
+    ]
+  }
+
