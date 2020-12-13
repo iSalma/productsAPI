@@ -21,11 +21,11 @@
   "categories": [
     {
       "id": 1,
-      "name": "some comment"
+      "categoryName": "some comment"
     },
     {
       "id": 2,
-      "name": "some commdddent"
+      "categoryName": "some commdddent"
     }
   ]
 }
