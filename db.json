@@ -3,27 +3,27 @@
     {
       "code": 1,
       "name": "Post 1",
-      "price": 22,
+      "price": 22
     },
     {
       "code": 2,
       "name": "Post 52",
-      "price": 26,
+      "price": 26
     },
     {
       "code": 3,
       "name": "Post 51",
-      "price": 52,
+      "price": 52
     }
   ],
   "categories": [
     {
       "id": 1,
-      "name": "some comment",
+      "name": "some comment"
     },
     {
       "id": 2,
-      "name": "some commdddent",
+      "name": "some commdddent"
     }
   ]
 }
