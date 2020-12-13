@@ -2,17 +2,17 @@
   "products": [
     {
       "code": 1,
-      "name": "Post 1"
+      "name": "Post 1",
       "price": 22,
     },
     {
       "code": 2,
-      "name": "Post 52"
+      "name": "Post 52",
       "price": 26,
     },
     {
       "code": 3,
-      "name": "Post 51"
+      "name": "Post 51",
       "price": 52,
     }
   ],
