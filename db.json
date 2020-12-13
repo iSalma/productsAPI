@@ -1,49 +1,31 @@
-
-
-[
-  { "page":1,
-    "category": {"name":"varf"},
-    "products" : [
-    { "name": "p1", "price" : 2.50, "code": "12"},
-    { "name": "p2", "price" : 3, "code": "23"},
-    { "name": "p3df", "price" : 4, "code": "45"},
-    { "name": "p4 ds", "price" : 1.50, "code": "67"},
-    { "name": "p5 sd", "price" : 1.50, "code": "89"},
-    { "name": "p6 df", "price" : 3, "code": "10"},
-    { "name": "p2", "price" : 3, "code": "23f"},
-    { "name": "p8df", "price" : 4, "code": "45f"},
-    { "name": "p7 ds", "price" : 1.50, "code": "67ff"},
-    { "name": "p9 sd", "price" : 1.50, "code": "89f"},
-    { "name": "p100 df", "price" : 3, "code": "10d"}
-  ]},
-  { "page":2,
-    "category": {"name":"varf"},
-     "products" : [
-      { "name": "p1", "price" : 2.50, "code": "12"},
-      { "name": "p2", "price" : 3, "code": "23"},
-      { "name": "p3df", "price" : 4, "code": "45"},
-      { "name": "p4 ds", "price" : 1.50, "code": "67"},
-      { "name": "p5 sd", "price" : 1.50, "code": "89"},
-      { "name": "p6 df", "price" : 3, "code": "10"},
-      { "name": "p2", "price" : 3, "code": "23f"},
-      { "name": "p8df", "price" : 4, "code": "45f"},
-      { "name": "p7 ds", "price" : 1.50, "code": "67ff"},
-      { "name": "p9 sd", "price" : 1.50, "code": "89f"},
-      { "name": "p100 df", "price" : 3, "code": "10d"}
-    ]},
-    { "page":3,
-      "category": {"name":"varf"},
-      "products" : [
-        { "name": "p1", "price" : 2.50, "code": "12"},
-        { "name": "p2", "price" : 3, "code": "23"},
-        { "name": "p3df", "price" : 4, "code": "45"},
-        { "name": "p4 ds", "price" : 1.50, "code": "67"},
-        { "name": "p5 sd", "price" : 1.50, "code": "89"},
-        { "name": "p6 df", "price" : 3, "code": "10"},
-        { "name": "p2", "price" : 3, "code": "23f"},
-        { "name": "p8df", "price" : 4, "code": "45f"},
-        { "name": "p7 ds", "price" : 1.50, "code": "67ff"},
-        { "name": "p9 sd", "price" : 1.50, "code": "89f"},
-        { "name": "p100 df", "price" : 3, "code": "10d"}
-      ]}
-  ]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
