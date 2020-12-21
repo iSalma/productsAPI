@@ -1,67 +1,103 @@
-
-
 {
-    "products": [
-      {
-        "index":1,
-        "id": 1,
-        "code": 1,
-        "name": "Post 1",
-        "price": 22
-      },
-      {
-        "index":2,
-        "id": 2,
-        "code": 2,
-        "name": "Post 52",
-        "price": 26
-      },
-      {
-        "index":3,
-        "id": 3,
-        "code": 3,
-        "name": "Post 51",
-        "price": 52
-      },
-      {
-        "index":4,
-        "id": 1,
-        "code": 1,
-        "name": "Post 1",
-        "price": 22
-      },
-      {
-        "index":5,
-        "id": 2,
-        "code": 2,
-        "name": "Post 52",
-        "price": 26
-      },
-      {
-        "index":6,
-        "id": 4,
-        "code": 3,
-        "name": "Post 51",
-        "price": 52
-      }
-    ],
-    "categories": [
-      {
-        "id": 1,
-        "categoryName": "prod 1"
-      },
-      {
-        "id": 2,
-        "categoryName": "prod 2"
-      },
-      {
-        "id": 3,
-        "categoryName": "prod 11"
-      },
-      {
-        "id": 4,
-        "categoryName": "prod 22"
-      }
-    ]
-  }
-
+  "products": [
+    {
+      "cat": 3,
+      "name": "one",
+      "code": 65,
+      "price": 65,
+      "id": 7
+    },
+    {
+      "cat": 3,
+      "name": "two",
+      "code": "",
+      "price": "",
+      "id": 8
+    },
+    {
+      "cat": 1,
+      "name": "four",
+      "code": 647,
+      "price": 684,
+      "id": 10
+    },
+    {
+      "cat": 4,
+      "name": "five",
+      "code": 584,
+      "price": 8467,
+      "id": 11
+    },
+    {
+      "cat": 3,
+      "name": "seven",
+      "code": 65,
+      "price": 65,
+      "id": 16
+    },
+    {
+      "cat": 3,
+      "name": "eight",
+      "code": "",
+      "price": "",
+      "id": 17
+    },
+    {
+      "cat": 2,
+      "name": "nine",
+      "code": 45,
+      "price": 64,
+      "id": 9
+    },
+    {
+      "cat": 1,
+      "name": "ten",
+      "code": 647,
+      "price": 684,
+      "id": 18
+    },
+    {
+      "cat": 4,
+      "name": "eleven",
+      "code": 584,
+      "price": 8467,
+      "id": 11
+    },
+    {
+      "cat": 2,
+      "name": "twelve",
+      "code": 77777,
+      "price": 777,
+      "id": 19
+    },
+    {
+      "cat": 2,
+      "name": "13",
+      "code": 77777,
+      "price": 777,
+      "id": 20
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "cat 1"
+    },
+    {
+      "id": 2,
+      "categoryName": "cat 2"
+    },
+    {
+      "id": 3,
+      "categoryName": "cat 3"
+    },
+    {
+      "categoryName": "cat 4",
+      "id": 4
+    },
+    {
+      "categoryName": "cat 5",
+      "id": 5
+    }
+  ]
+}
